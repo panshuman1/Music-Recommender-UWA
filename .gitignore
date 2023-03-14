@@ -127,5 +127,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre
-tracks.csv
-Music-Recommender-UWA/tracks.csv
