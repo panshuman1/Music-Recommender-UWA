@@ -126,4 +126,6 @@ venv.bak/
 dmypy.json
 
 # Pyre type checker
-.pyre/
+.pyre
+tracks.csv
+Music-Recommender-UWA/tracks.csv
